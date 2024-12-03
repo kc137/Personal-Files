@@ -1,0 +1,24 @@
+Vehicle-V1 travelled a distance of 83 km with a load of 98 Tons
+
+["('D', 'C1')-26", "('C1', 'C6')-29", "('C5', 'D')-0", "('C6', 'C13')-25", "('C13', 'C5')-18"]
+
+Vehicle-V2 travelled a distance of 137 km with a load of 98 Tons
+
+["('D', 'C14')-36", "('C3', 'C8')-21", "('C4', 'D')-0", "('C8', 'C4')-25", "('C14', 'C3')-16"]
+
+Vehicle-V3 travelled a distance of 145 km with a load of 99 Tons
+
+["('D', 'C7')-24", "('C2', 'D')-0", "('C7', 'C15')-21", "('C9', 'C2')-27", "('C15', 'C9')-27"]
+
+Vehicle-V4 travelled a distance of 102 km with a load of 88 Tons
+
+["('D', 'C10')-31", "('C10', 'C11')-21", "('C11', 'C12')-36", "('C12', 'D')-0"]
+
+Total distance Travelled = 467.0
+
+{'Problem': [{'Name': 'tmpq5gg4srn', 'Lower bound': 467.0, 'Upper bound': 467.0, 'Number of objectives': 1, 'Number of constraints': 992, 'Number of variables': 1040, 
+'Number of nonzeros': 6545, 'Sense': 'minimize'}], 'Solver': [{'Status': 'ok', 'User time': 476.22, 'Termination condition': 'optimal', 
+'Termination message': 'MIP - Integer optimal solution\\x3a Objective = 4.6700000000e+02', 'Statistics': 
+{'Branch and bound': {'Number of bounded subproblems': 290527, 'Number of created subproblems': 290527}}, 
+'Error rc': 0, 'Time': 476.964537858963}], 
+'Solution': [OrderedDict([('number of solutions', 0), ('number of solutions displayed', 0)])]}
