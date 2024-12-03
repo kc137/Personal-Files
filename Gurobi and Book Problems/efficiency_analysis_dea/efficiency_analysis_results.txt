@@ -1,0 +1,532 @@
+Winchester : 
+
+The Weights for the Inputs are :
+
+staff : 0.012
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.002
+alphaEnquiries : 0.095
+betaEnquiries : 0.02
+
+The Weights for the Outputs are :
+
+alphaSales : 0.113
+BetaSales : 0.004
+profit : 0.404
+
+The maximum efficiency of Winchester : 0.835
+
+Andover : 
+
+The Weights for the Inputs are :
+
+staff : 0.115
+showRoom : 0.051
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.399
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Andover : 0.917
+
+Basingstoke : 
+
+The Weights for the Inputs are :
+
+staff : 0.429
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.071
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 1.25
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Basingstoke : 1.0
+
+Poole : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.019
+Population1 : 0.0
+Population2 : 0.001
+alphaEnquiries : 0.081
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.065
+BetaSales : 0.0
+profit : 0.366
+
+The maximum efficiency of Poole : 0.864
+
+Woking : 
+
+The Weights for the Inputs are :
+
+staff : 0.015
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.001
+alphaEnquiries : 0.062
+betaEnquiries : 0.032
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.218
+profit : 0.314
+
+The maximum efficiency of Woking : 0.845
+
+Newbury : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.066
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.005
+
+The Weights for the Outputs are :
+
+alphaSales : 0.125
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Newbury : 1.0
+
+Portsmouth : 
+
+The Weights for the Inputs are :
+
+staff : 0.116
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.101
+
+The Weights for the Outputs are :
+
+alphaSales : 0.115
+BetaSales : 0.793
+profit : 0.0
+
+The maximum efficiency of Portsmouth : 1.0
+
+Alresford : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.018
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.085
+betaEnquiries : 0.026
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.152
+profit : 0.435
+
+The maximum efficiency of Alresford : 1.0
+
+Salisbury : 
+
+The Weights for the Inputs are :
+
+staff : 0.077
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.08
+betaEnquiries : 0.087
+
+The Weights for the Outputs are :
+
+alphaSales : 0.5
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Salisbury : 1.0
+
+Guildford : 
+
+The Weights for the Inputs are :
+
+staff : 0.014
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.075
+betaEnquiries : 0.036
+
+The Weights for the Outputs are :
+
+alphaSales : 0.062
+BetaSales : 0.0
+profit : 0.397
+
+The maximum efficiency of Guildford : 0.802
+
+Alton : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.333
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.526
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Alton : 1.0
+
+Weybridge : 
+
+The Weights for the Inputs are :
+
+staff : 0.149
+showRoom : 0.0
+Population1 : 0.028
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.379
+BetaSales : 0.0
+profit : 0.122
+
+The maximum efficiency of Weybridge : 0.854
+
+Dorchester : 
+
+The Weights for the Inputs are :
+
+staff : 0.014
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.003
+alphaEnquiries : 0.118
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.11
+BetaSales : 0.0
+profit : 0.484
+
+The maximum efficiency of Dorchester : 0.867
+
+Bridport : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.002
+Population1 : 0.0
+Population2 : 0.002
+alphaEnquiries : 0.096
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.06
+BetaSales : 0.0
+profit : 0.387
+
+The maximum efficiency of Bridport : 0.982
+
+Weymouth : 
+
+The Weights for the Inputs are :
+
+staff : 0.25
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.556
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Weymouth : 1.0
+
+Portland : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.5
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.0
+profit : 2.0
+
+The maximum efficiency of Portland : 1.0
+
+Chichester : 
+
+The Weights for the Inputs are :
+
+staff : 0.011
+showRoom : 0.008
+Population1 : 0.0
+Population2 : 0.002
+alphaEnquiries : 0.125
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.098
+BetaSales : 0.0
+profit : 0.545
+
+The maximum efficiency of Chichester : 0.825
+
+Petersfield : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.158
+alphaEnquiries : 0.003
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.167
+BetaSales : 0.0
+profit : 0.0
+
+The maximum efficiency of Petersfield : 1.0
+
+Petworth : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.156
+Population1 : 0.058
+Population2 : 0.013
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.141
+BetaSales : 0.0
+profit : 0.501
+
+The maximum efficiency of Petworth : 0.988
+
+Midhurst : 
+
+The Weights for the Inputs are :
+
+staff : 0.018
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.011
+alphaEnquiries : 0.366
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.294
+BetaSales : 0.047
+profit : 1.431
+
+The maximum efficiency of Midhurst : 0.889
+
+Reading : 
+
+The Weights for the Inputs are :
+
+staff : 0.001
+showRoom : 0.006
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.023
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.019
+BetaSales : 0.0
+profit : 0.106
+
+The maximum efficiency of Reading : 0.984
+
+Southampton : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.008
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.031
+betaEnquiries : 0.002
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.057
+profit : 0.148
+
+The maximum efficiency of Southampton : 1.0
+
+Bournemouth : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.1
+Population1 : 0.0
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.0
+profit : 0.222
+
+The maximum efficiency of Bournemouth : 1.0
+
+Henley : 
+
+The Weights for the Inputs are :
+
+staff : 0.02
+showRoom : 0.109
+Population1 : 0.003
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.042
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.0
+profit : 0.5
+
+The maximum efficiency of Henley : 1.0
+
+Maidenhead : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.122
+Population1 : 0.004
+Population2 : 0.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.5
+profit : 0.0
+
+The maximum efficiency of Maidenhead : 1.0
+
+Fareham : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 1.0
+alphaEnquiries : 0.0
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 2.083
+profit : 0.0
+
+The maximum efficiency of Fareham : 1.0
+
+Romsey : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.012
+alphaEnquiries : 0.304
+betaEnquiries : 0.229
+
+The Weights for the Outputs are :
+
+alphaSales : 0.0
+BetaSales : 0.0
+profit : 1.818
+
+The maximum efficiency of Romsey : 1.0
+
+Ringwood : 
+
+The Weights for the Inputs are :
+
+staff : 0.0
+showRoom : 0.0
+Population1 : 0.0
+Population2 : 0.013
+alphaEnquiries : 0.512
+betaEnquiries : 0.0
+
+The Weights for the Outputs are :
+
+alphaSales : 0.299
+BetaSales : 0.0
+profit : 2.044
+
+The maximum efficiency of Ringwood : 0.908
+

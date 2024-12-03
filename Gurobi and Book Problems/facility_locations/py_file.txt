@@ -1,0 +1,13 @@
+import random, numpy as np, matplotlib.pyplot as plt
+from sklearn.cluster import MiniBatchKMeans
+
+seed = 7
+n_cust = 50e3
+n_candidates = 20
+n_facilities = 8
+n_clusters = 50
+n_gaussians = 10
+threshold = 0.99
+
+random.seed(seed)
+for i in range(num_gaussians):
