@@ -1,0 +1,8 @@
+gasoline max pressure min octane max demand min demand
+regular     23		88	  100000      50000
+extra  	    23          93         20000       5000
+
+oil  	 pressure     octane     inventory   cost   
+national   25		87	   40000     50000
+imported   15		98         60000      5000
+
