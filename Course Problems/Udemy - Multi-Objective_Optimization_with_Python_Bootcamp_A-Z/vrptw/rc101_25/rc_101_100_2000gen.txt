@@ -1,0 +1,11 @@
+vrptw_algorithm = NSGA2(pop_size = 200, 
+                        sampling = PermutationRandomSampling(), 
+                        crossover = OrderCrossover(prob = 0.85, repair = RoundingRepair()), 
+                        mutation = InversionMutation(prob = 0.1), 
+                        
+                        eliminate_duplicates = True)
+
+ [-1.03376981 28.]
+ [-1.03376981 28.]
+ [-1.03376981 28.]
+Time taken byy NSGA-II: 976.91 sec.
