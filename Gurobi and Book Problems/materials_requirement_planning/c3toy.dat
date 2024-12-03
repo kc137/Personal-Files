@@ -1,0 +1,45 @@
+! Data file for `c3toy.mos'
+
+REQ: [ ("axle"  "wheel")    2
+       ("axle" "steel_bar") 1
+       ("assembled_chassis"  "bumper")  2
+       ("assembled_chassis"  "axle")    2
+       ("assembled_chassis"  "chassis") 1
+       ("assembled_cabin"  "cabin")       1
+       ("assembled_cabin"  "door_window") 2
+       ("assembled_cabin"  "windscreen")  1
+       ("blue_lorry"  "assembled_chassis") 1
+       ("blue_lorry"  "container")         1
+       ("blue_lorry"  "assembled_cabin")   1
+       ("blue_lorry"  "blue_motor")        1
+       ("blue_lorry"  "headlight")         2
+       ("red_lorry"  "assembled_chassis") 1
+       ("red_lorry"  "tank")              1
+       ("red_lorry"  "assembled_cabin")   1
+       ("red_lorry"  "red_motor")         1
+       ("red_lorry"  "headlight")         2 ]
+              
+CBUY: [ ("wheel") 0.30 
+        ("steel_bar") 1 
+        ("bumper") 0.2 
+        ("axle") 12.75 
+        ("chassis") 0.8 
+        ("cabin") 2.75 
+        ("door_window") 0.1 
+        ("windscreen") 0.29 
+        ("assembled_chassis") 30 
+        ("container") 2.60 
+        ("tank") 3 
+        ("assembled_cabin") 3 
+        ("blue_motor") 1.65 
+        ("red_motor") 1.65 
+        ("headlight") 0.15 ]      
+
+ASSEMBLY: [ ("axle")              [6.80 600]
+            ("assembled_chassis") [3.55 4000]
+            ("assembled_cabin")   [3.20 3000]
+            ("blue_lorry")        [2.20 4000]
+            ("red_lorry")         [2.60 5000] ]
+            
+DEM: [ ("blue_lorry") 3000 
+       ("red_lorry") 3000 ]
