@@ -11,26 +11,6 @@ seed = 7
 # random.seed(seed)
 
 coords = [(random.randint(0, 50), random.randint(0, 50)) for _ in range(N)]
-coords = [(20, 9),
-  (25, 41),
-  (3, 4),
-  (34, 6),
-  (23, 37),
-  (3, 32),
-  (13, 2),
-  (5, 27),
-  (26, 4),
-  (15, 5),
-  (35, 27),
-  (3, 36),
-  (7, 14),
-  (40, 40),
-  (37, 3),
-  (36, 37),
-  (25, 3),
-  (14, 2),
-  (35, 8),
-  (18, 26)]
 
 distance_matrix = np.round(squareform(pdist(coords)))
 
