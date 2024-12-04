@@ -1,4 +1,4 @@
-These are the files I wrote that contains solved Operations Research Problems in Python.
+These are the files I wrote that contains the modelling and solution of Operations Research Problems in Python.
 
 Problems from books are from below books: 
 1. Operations Research Applications and Algorithms by Wayne L. Winston (4th Edition).
