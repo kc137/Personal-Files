@@ -1,1 +1,1 @@
-These are the files I wrote that contains solution of different Operations Research Problems.
+These are the files I wrote that contains solved Operations Research Problems in Python.
