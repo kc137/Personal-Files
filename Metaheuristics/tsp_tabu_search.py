@@ -3,7 +3,7 @@ from scipy.spatial.distance import pdist, squareform
 from copy import deepcopy
 
 """
-Here there are two methods, try both (they are inside double loop)
+Two methods can be used, with and without neighbourhood
 """
 
 N = 20
