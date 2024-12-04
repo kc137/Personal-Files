@@ -3,7 +3,7 @@ from scipy.spatial.distance import pdist, squareform
 from copy import deepcopy
 
 """
-Here there are two methods, try both (they are inside double loop)
+Two methods can be implemented with and without neighbourhood
 """
 
 N = 17
@@ -30,7 +30,7 @@ def gen_initial_solution():
     return new_state
         
 
-neighbourhood_size = 1000
+# neighbourhood_size = 1000
 max_tabu_size = 100
 max_iterations = 200
 initial_state = gen_initial_solution()
