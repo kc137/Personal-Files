@@ -5,6 +5,7 @@ Problems from books are taken from below:
 2. Applications of Optimization with Xpress-MP by Christelle Guéret, Christian Prins and Marc Sevaux.
 
 Gurobi examples taken from below link are solved in Pyomo: 
+
 https://github.com/Gurobi/modeling-examples.
 
 Remaining problems are from Udemy Courses, Research Papers (including instances mentioned in papers) or from different online sources.
