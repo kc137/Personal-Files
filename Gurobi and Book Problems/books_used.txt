@@ -1,0 +1,2 @@
+Operations Research Applications and Algorithms by Wayne L. Winston (4th Edition).
+Applications of Optimization with Xpress-MP by Christelle Guéret, Christian Prins and Marc Sevaux.
