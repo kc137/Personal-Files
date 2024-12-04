@@ -3,7 +3,14 @@ from scipy.spatial.distance import pdist, squareform
 from copy import deepcopy
 
 """
-Two methods can be implemented with and without neighbourhood
+Two methods can be implemented with and without neighbourhood.
+"""
+"""
+There are lots of methods but one more method is to take a random 
+number and if it has 1/3 chance then do two-opt swap and if 2/3 
+then we can use 2nd strategy else we can use 3rd strategy.
+
+This will give some more accuracy.
 """
 
 N = 17
